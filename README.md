@@ -4,6 +4,7 @@
 
 ## 🖥️ 프로젝트 소개
 
+![Alt text](image.png)
 미리 제공된 train_csv, test_csv, submission_csv 3개의 데이터로<br>
 데이터 분석 및 추론을 진행하고, 그 과정을 설명하는 것입니다.
 <br>
@@ -21,6 +22,15 @@
 
 - `python3.11`
 - `jupyter notebook`
+
+### 🥇기술 스택
+
+- `pandas`
+- `matplotlib`
+- `sklearn`
+- `seaborn`
+- `xgboost`
+- `lightgbm `
 
 ## 📌 Stage 설명
 
